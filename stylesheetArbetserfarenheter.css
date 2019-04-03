@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+html, body{
+	margin: 0;
+	padding: 0;
+}
+#page-bodyArbetserfarenheter{
+	
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyYtemBNw9kAfVDC5CDe7gq4SBnH66P0w2tMeQqCwv6l5tCNi8Q");
+}
+#page-navArbetserfarenheter{
+	min-height: 50px;
+	width: 100%;
+	height: auto;
+	background: orange;
+}
+.col-1-3{
+	display: inline-block;
+	width: 33%
+}
+h1.nav-ommig{
+	float:right;
+}
+h1.nav-hem{
+	float: left;
+}
+
+a.link-hem{
+	color: black;
+
+}
+a.link-skola{
+	color:black; 
+
+}
+a.link-ommig{
+	color:black; 
+
+}
+h1.header{
+	color:white;
+}
+#page-footer{
+	 
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;	
+  padding: 1rem;
+  background-color: black;
+  text-align: center;
+}
